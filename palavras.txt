@@ -4,3 +4,5 @@ uva
 melancia
 manga
 damasco
+laranja
+figo
