@@ -1,6 +1,8 @@
 
 import random
 
+#Menu
+
 def usar():
 
     imprimeMensagemAbertura()
